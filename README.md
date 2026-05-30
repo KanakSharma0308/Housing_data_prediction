@@ -146,12 +146,4 @@ Final Model — VotingRegressor:
   Step 4 : Run all cells top to bottom (Kernel -> Restart & Run All)
 
 --------------------------------------------------------------------------------
-10. FUTURE IMPROVEMENTS
---------------------------------------------------------------------------------
-  [ ] Apply log transform on SalePrice to reduce skewness (expected RMSE: ~$18k)
-  [ ] Remove outliers in LotArea and LotFrontage
-  [ ] Try Stacking instead of simple Voting ensemble
-  [ ] Add LightGBM to the ensemble
-  [ ] Generate submission.csv for Kaggle leaderboard
---------------------------------------------------------------------------------
 
